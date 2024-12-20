@@ -1,0 +1,1821 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\C500Hemis.bundle.scp.css",
+      "PackagePath": "staticwebassets\\C500Hemis.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\HTML\\avt.jpg",
+      "PackagePath": "staticwebassets\\HTML\\avt.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\Nhom6_B8D55\\hinh-nen-dong-dep-55.gif",
+      "PackagePath": "staticwebassets\\Nhom6_B8D55\\hinh-nen-dong-dep-55.gif"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\assets\\img\\CSGD.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\CSGD.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\assets\\img\\Logo_hoc_vien_ANND.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Logo_hoc_vien_ANND.png"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\css\\CBHDSVTC1.css",
+      "PackagePath": "staticwebassets\\css\\CBHDSVTC1.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\css\\CBHDTCSV.css",
+      "PackagePath": "staticwebassets\\css\\CBHDTCSV.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\css\\CTDT.css",
+      "PackagePath": "staticwebassets\\css\\CTDT.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\css\\IndexCTDT.css",
+      "PackagePath": "staticwebassets\\css\\IndexCTDT.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\css\\ThongTinHocTapNghienCuuSinh.css",
+      "PackagePath": "staticwebassets\\css\\ThongTinHocTapNghienCuuSinh.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\ca1.jpg",
+      "PackagePath": "staticwebassets\\images\\ca1.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\ca2.jpg",
+      "PackagePath": "staticwebassets\\images\\ca2.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\ca3.jpg",
+      "PackagePath": "staticwebassets\\images\\ca3.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\ca4.jpg",
+      "PackagePath": "staticwebassets\\images\\ca4.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\ca5.jpg",
+      "PackagePath": "staticwebassets\\images\\ca5.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\ca6.jpg",
+      "PackagePath": "staticwebassets\\images\\ca6.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\hinh-nen-dong-dep-55.gif",
+      "PackagePath": "staticwebassets\\images\\hinh-nen-dong-dep-55.gif"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\tthtncs.png",
+      "PackagePath": "staticwebassets\\images\\tthtncs.png"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\tthtncs2.png",
+      "PackagePath": "staticwebassets\\images\\tthtncs2.png"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\images\\z6137662673768_b760def2012c00c9343295a9cad566d7.jpg",
+      "PackagePath": "staticwebassets\\images\\z6137662673768_b760def2012c00c9343295a9cad566d7.jpg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\js\\Select_search.js",
+      "PackagePath": "staticwebassets\\js\\Select_search.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\js\\search_select.js",
+      "PackagePath": "staticwebassets\\js\\search_select.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\Italic.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\Italic.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\agenda.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\agenda.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\alarm-clock.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\alarm-clock.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\alert.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\alert.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\align-center.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\align-center.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\align-justify.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\align-justify.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\align-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\align-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\align-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\align-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\anchor.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\anchor.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\android.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\android.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-double-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-double-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-double-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-double-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-double-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-double-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-double-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-double-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\angle-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\angle-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\announcement.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\announcement.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\apple.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\apple.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\archive.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\archive.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-circle-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-circle-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-circle-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-circle-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-circle-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-circle-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-circle-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-circle-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-top-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-top-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-top-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-top-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrow.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrow.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrows-corner.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrows-corner.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrows-horizontal.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrows-horizontal.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\arrows-vertical.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\arrows-vertical.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\back-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\back-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\back-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\back-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bag.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bag.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bar-chart-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bar-chart-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bar-chart.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\basketball.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\basketball.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bell.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bell.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\blackboard.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\blackboard.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bolt-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bolt-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bolt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bolt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\book.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\book.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bookmark-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bookmark-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\bookmark.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\bookmark.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\briefcase.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\briefcase.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\brush-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\brush-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\brush.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\brush.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\calendar.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\calendar.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\camera.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\camera.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\car.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\car.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\check-box.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\check-box.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\check.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\check.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\clip.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\clip.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\clipboard.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\clipboard.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\close.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\close.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\cloud-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\cloud-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\cloud-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\cloud-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\cloud.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\cloud.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\comment-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\comment-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\comment.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\comment.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\comments-smiley.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\comments-smiley.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\comments.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\comments.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-backward.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-backward.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-eject.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-eject.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-forward.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-forward.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-pause.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-pause.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-play.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-play.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-record.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-record.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-shuffle.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-shuffle.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-skip-backward.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-skip-backward.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-skip-forward.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-skip-forward.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\control-stop.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\control-stop.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\credit-card.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\credit-card.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\crown.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\crown.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\css3.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\css3.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\cup.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\cup.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\cut.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\cut.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\dashboard.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\dashboard.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\desktop.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\desktop.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\direction-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\direction-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\direction.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\direction.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\download.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\download.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\dribbble.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\dribbble.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\dropbox-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\dropbox-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\dropbox.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\dropbox.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\drupal.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\drupal.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\email.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\email.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\envelope.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\envelope.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\eraser.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\eraser.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\exchange-vertical.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\exchange-vertical.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\export.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\export.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\eye.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\eye.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\face-sad.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\face-sad.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\face-smile.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\face-smile.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\facebook.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\facebook.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\file.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\file.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\files.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\files.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\filter.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\filter.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\flag-alt-2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\flag-alt-2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\flag-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\flag-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\flag.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\flag.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\flickr-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\flickr-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\flickr.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\flickr.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\folder.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\folder.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\fullscreen.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\fullscreen.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\gallery.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\gallery.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\game.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\game.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\gift.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\gift.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\github.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\github.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\google.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\google.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hand-drag.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hand-drag.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hand-open.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hand-open.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hand-point-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hand-point-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hand-point-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hand-point-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hand-point-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hand-point-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hand-point-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hand-point-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hand-stop.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hand-stop.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\harddrive.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\harddrive.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\harddrives.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\harddrives.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\headphone-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\headphone-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\headphone.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\headphone.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\heart-broken.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\heart-broken.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\heart.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\heart.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\help-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\help-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\help.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\help.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\home.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\home.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\html5.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\html5.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\hummer.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\hummer.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\id-badge.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\id-badge.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\image.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\image.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\import.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\import.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\infinite.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\infinite.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\info-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\info-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\info.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\info.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\ink-pen.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\ink-pen.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\instagram.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\instagram.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\joomla.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\joomla.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\jsfiddle.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\jsfiddle.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\key.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\key.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layers-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layers-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layers.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layers.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-accordion-list.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-accordion-list.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-accordion-merged.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-accordion-merged.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-accordion-separated.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-accordion-separated.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-column2-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-column2-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-column2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-column2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-column3-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-column3-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-column3.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-column3.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-column4-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-column4-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-column4.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-column4.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-cta-btn-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-cta-btn-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-cta-btn-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-cta-btn-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-cta-center.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-cta-center.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-cta-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-cta-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-cta-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-cta-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-grid2-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-grid2-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-grid2-thumb.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-grid2-thumb.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-grid2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-grid2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-grid3-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-grid3-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-grid3.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-grid3.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-grid4-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-grid4-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-grid4.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-grid4.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-line-solid.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-line-solid.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-list-large-image.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-list-large-image.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-list-post.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-list-post.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-list-thumb-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-list-thumb-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-list-thumb.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-list-thumb.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-center-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-center-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-center.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-center.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-left-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-left-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-overlay-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-overlay-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-overlay.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-overlay.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-right-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-right-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-media-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-media-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-menu-full.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-menu-full.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-menu-separated.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-menu-separated.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-menu-v.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-menu-v.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-menu.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-menu.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-placeholder.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-placeholder.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-sidebar-2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-sidebar-2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-sidebar-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-sidebar-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-sidebar-none.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-sidebar-none.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-sidebar-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-sidebar-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-slider-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-slider-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-slider.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-slider.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-tab-min.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-tab-min.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-tab-v.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-tab-v.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-tab-window.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-tab-window.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-tab.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-tab.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-width-default-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-width-default-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-width-default.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-width-default.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout-width-full.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout-width-full.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\layout.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\layout.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\light-bulb.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\light-bulb.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\line-dashed.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\line-dashed.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\line-dotted.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\line-dotted.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\line-double.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\line-double.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\link.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\link.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\linkedin.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\linkedin.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\linux.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\linux.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\list-ol.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\list-ol.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\list.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\list.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\location-arrow.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\location-arrow.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\location-pin.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\location-pin.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\lock.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\lock.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\loop.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\loop.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\magnet.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\magnet.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\map-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\map-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\map.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\map.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\marker-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\marker-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\marker.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\marker.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\medall-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\medall-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\medall.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\medall.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\menu-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\menu-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\menu.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\menu.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\microphone-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\microphone-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\microphone.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\microphone.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\microsoft-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\microsoft-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\microsoft.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\microsoft.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\minus.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\minus.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\mobile.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\mobile.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\money.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\money.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\more-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\more-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\more.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\more.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\mouse-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\mouse-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\mouse.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\mouse.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\music-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\music-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\music.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\music.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\na.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\na.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\new-window.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\new-window.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\notepad.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\notepad.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\package.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\package.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\paint-bucket.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\paint-bucket.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\paint-roller.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\paint-roller.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\palette.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\palette.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\panel.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\panel.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\paragraph.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\paragraph.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pencil-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pencil-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pencil-alt2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pencil-alt2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pencil.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pencil.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pie-chart.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pin-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pin-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pin.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pin.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pin2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pin2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pinterest-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pinterest-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pinterest.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pinterest.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\plug.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\plug.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\plus.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\plus.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\power-off.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\power-off.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\printer.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\printer.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\pulse.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\pulse.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\quote-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\quote-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\quote-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\quote-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\receipt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\receipt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\reddit.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\reddit.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\reload.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\reload.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\rocket.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\rocket.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\rss-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\rss-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\rss.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\rss.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\ruler-alt-2.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\ruler-alt-2.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\ruler-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\ruler-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\ruler-pencil.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\ruler-pencil.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\ruler.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\ruler.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\save-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\save-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\save.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\save.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\search.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\search.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\server.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\server.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\settings.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\settings.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\share-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\share-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\share.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\share.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\sharethis-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\sharethis-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\sharethis.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\sharethis.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shield.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shield.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shift-left-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shift-left-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shift-left.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shift-left.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shift-right-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shift-right-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shift-right.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shift-right.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shine.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shine.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shopping-cart-full.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shopping-cart-full.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shopping-cart.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\shortcode.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\shortcode.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\signal.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\signal.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\skype.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\skype.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\slice.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\slice.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\smallcap.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\smallcap.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\soundcloud.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\soundcloud.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\split-h.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\split-h.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\split-v-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\split-v-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\split-v.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\split-v.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\spray.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\spray.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\stack-overflow.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\stack-overflow.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\stamp.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\stamp.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\star.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\star.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\stats-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\stats-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\stats-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\stats-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\support.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\support.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\tablet.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\tablet.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\tag.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\tag.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\target.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\target.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\text.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\text.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\themify-favicon-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\themify-favicon-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\themify-favicon.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\themify-favicon.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\themify-logo.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\themify-logo.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\thought.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\thought.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\thumb-down.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\thumb-down.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\thumb-up.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\thumb-up.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\ticket.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\ticket.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\time.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\time.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\timer.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\timer.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\trash.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\trash.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\trello.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\trello.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\truck.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\truck.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\tumblr-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\tumblr-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\tumblr.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\tumblr.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\twitter-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\twitter-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\twitter.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\twitter.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\underline.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\underline.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\unlink.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\unlink.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\unlock.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\unlock.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\upload.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\upload.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\uppercase.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\uppercase.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\user.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\user.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\vector.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\vector.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\video-camera.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\video-camera.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\video-clapper.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\video-clapper.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\view-grid.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\view-grid.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\view-list-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\view-list-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\view-list.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\view-list.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\vimeo-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\vimeo-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\vimeo.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\vimeo.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\volume.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\volume.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\wallet.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\wallet.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\wand.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\wand.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\wheelchair.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\wheelchair.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\widget-alt.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\widget-alt.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\widget.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\widget.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\widgetized.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\widgetized.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\window.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\window.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\wordpress.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\wordpress.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\world.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\world.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\write.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\write.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\yahoo.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\yahoo.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\youtube.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\youtube.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\zip.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\zip.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\zoom-in.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\SVG\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\SVG\\zoom-out.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\Themify IconFonts 5-23-2014.json",
+      "PackagePath": "staticwebassets\\themify-icons\\Themify IconFonts 5-23-2014.json"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\themify-icons\\demo-files\\demo.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\index.html",
+      "PackagePath": "staticwebassets\\themify-icons\\index.html"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\readme.txt",
+      "PackagePath": "staticwebassets\\themify-icons\\readme.txt"
+    },
+    {
+      "Id": "D:\\BTL-API-main\\C500Hemis\\wwwroot\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.C500Hemis.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.C500Hemis.props",
+      "PackagePath": "build\\C500Hemis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.C500Hemis.props",
+      "PackagePath": "buildMultiTargeting\\C500Hemis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.C500Hemis.props",
+      "PackagePath": "buildTransitive\\C500Hemis.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

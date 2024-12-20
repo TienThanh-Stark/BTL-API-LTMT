@@ -1,0 +1,271 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C500Hemis
+build_property.RootNamespace = C500Hemis
+build_property.ProjectDir = D:\BTL-API-main\C500Hemis\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\BTL-API-main\C500Hemis
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoCauToChuc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29DYXVUb0NodWNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoCauToChuc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29DYXVUb0NodWNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoCauToChuc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29DYXVUb0NodWNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoCauToChuc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29DYXVUb0NodWNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoCauToChuc/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29DYXVUb0NodWNcSW1wb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoCauToChuc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29DYXVUb0NodWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoSoGiaoDuc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb0dpYW9EdWNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoSoGiaoDuc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb0dpYW9EdWNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoSoGiaoDuc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb0dpYW9EdWNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoSoGiaoDuc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb0dpYW9EdWNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoSoGiaoDuc/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb0dpYW9EdWNcSW1wb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/CoSoGiaoDuc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29Tb0dpYW9EdWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DanhHieuThiDuaGiaiThuongKhenThuongCuaCoSoGd/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEhpZXVUaGlEdWFHaWFpVGh1b25nS2hlblRodW9uZ0N1YUNvU29HZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DanhHieuThiDuaGiaiThuongKhenThuongCuaCoSoGd/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEhpZXVUaGlEdWFHaWFpVGh1b25nS2hlblRodW9uZ0N1YUNvU29HZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DanhHieuThiDuaGiaiThuongKhenThuongCuaCoSoGd/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEhpZXVUaGlEdWFHaWFpVGh1b25nS2hlblRodW9uZ0N1YUNvU29HZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DanhHieuThiDuaGiaiThuongKhenThuongCuaCoSoGd/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEhpZXVUaGlEdWFHaWFpVGh1b25nS2hlblRodW9uZ0N1YUNvU29HZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DanhHieuThiDuaGiaiThuongKhenThuongCuaCoSoGd/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEhpZXVUaGlEdWFHaWFpVGh1b25nS2hlblRodW9uZ0N1YUNvU29HZFxJbXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DanhHieuThiDuaGiaiThuongKhenThuongCuaCoSoGd/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaEhpZXVUaGlEdWFHaWFpVGh1b25nS2hlblRodW9uZ0N1YUNvU29HZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DauMoiLienHe/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF1TW9pTGllbkhlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DauMoiLienHe/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF1TW9pTGllbkhlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DauMoiLienHe/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF1TW9pTGllbkhlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DauMoiLienHe/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF1TW9pTGllbkhlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DauMoiLienHe/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF1TW9pTGllbkhlXEltcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DauMoiLienHe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF1TW9pTGllbkhlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DonViLienKetDaoTaoGiaoDuc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlMaWVuS2V0RGFvVGFvR2lhb0R1Y1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DonViLienKetDaoTaoGiaoDuc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlMaWVuS2V0RGFvVGFvR2lhb0R1Y1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DonViLienKetDaoTaoGiaoDuc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlMaWVuS2V0RGFvVGFvR2lhb0R1Y1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DonViLienKetDaoTaoGiaoDuc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlMaWVuS2V0RGFvVGFvR2lhb0R1Y1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DonViLienKetDaoTaoGiaoDuc/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlMaWVuS2V0RGFvVGFvR2lhb0R1Y1xJbXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/DonViLienKetDaoTaoGiaoDuc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uVmlMaWVuS2V0RGFvVGFvR2lhb0R1Y1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/Home/CSGD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDU0dELmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/KhoaHoc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/KhoaHoc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/KhoaHoc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/KhoaHoc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/KhoaHoc/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xJbXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/KhoaHoc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hvYUhvY1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/LichSuDoiTenTruong/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaFN1RG9pVGVuVHJ1b25nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/LichSuDoiTenTruong/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaFN1RG9pVGVuVHJ1b25nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/LichSuDoiTenTruong/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaFN1RG9pVGVuVHJ1b25nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/LichSuDoiTenTruong/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaFN1RG9pVGVuVHJ1b25nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/LichSuDoiTenTruong/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaFN1RG9pVGVuVHJ1b25nXEltcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/LichSuDoiTenTruong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaFN1RG9pVGVuVHJ1b25nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/ToChucKiemDinh/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9DaHVjS2llbURpbmhcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/ToChucKiemDinh/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9DaHVjS2llbURpbmhcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/ToChucKiemDinh/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9DaHVjS2llbURpbmhcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/ToChucKiemDinh/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9DaHVjS2llbURpbmhcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/ToChucKiemDinh/Import.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9DaHVjS2llbURpbmhcSW1wb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/ToChucKiemDinh/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9DaHVjS2llbURpbmhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/VanBanTuChu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFuQmFuVHVDaHVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/VanBanTuChu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFuQmFuVHVDaHVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/VanBanTuChu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFuQmFuVHVDaHVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/VanBanTuChu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFuQmFuVHVDaHVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/VanBanTuChu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFuQmFuVHVDaHVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTL-API-main/C500Hemis/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pahqt12xy2
