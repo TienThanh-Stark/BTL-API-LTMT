@@ -78,11 +78,8 @@
         }
 </style>
 
-<h1 class="mt-4">Cơ cấu tổ chức</h1>
-<ol class="breadcrumb mb-4">
-    <li class="breadcrumb-item active">Index</li>
-</ol>
-
+<h5>CƠ SỞ GIÁO DỤC</h5>
+<h1 class="mt-4" style="text-align:center; margin-bottom:40px;">Văn bản từ chữ</h1>
 <div class="row">
     <div class="col-xl-3 col-md-6">
         <div class="card bg-primary text-white mb-4">
@@ -104,7 +101,7 @@
     </div>
     <div class="col-xl-3 col-md-6">
         <div class="card bg-success text-white mb-4">
-            <div class="card-body" style="font-weight: bold;">Upload File</div>
+            <div class="card-body" style="font-weight: bold;">Nhập Excel</div>
             <div class="card-footer d-flex align-items-center justify-content-between">
                 <a class="small text-white stretched-link" asp-action="Import">Import</a>
                 <div class="small text-white"><i class="fas fa-angle-right"></i></div>
@@ -115,13 +112,12 @@
         <div class="card bg-danger text-white mb-4">
             <div class="card-body">Danger Card</div>
             <div class="card-footer d-flex align-items-center justify-content-between">
-            <button class="btn btn-primary" data-toggle="modal" data-target="#chartModal">Hiển thị Biểu Đồ</button>
+                <button class="btn btn-primary" data-toggle="modal" data-target="#chartModal">Hiển thị Biểu Đồ</button>
                 <div class="small text-white"><i class="fas fa-angle-right"></i></div>
             </div>
         </div>
     </div>
 </div>
-
 
 <div class="container-fluid px-4">
     <div class="card mb-4">
@@ -165,9 +161,15 @@
                     @Html.DisplayFor(modelItem => item.CoQuanQuyetDinhBanHanh)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.IdVanBanTuChu">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.IdVanBanTuChu">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.IdVanBanTuChu">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.IdVanBanTuChu" class="btn btn-edit" title="Sửa" data-toggle="tooltip">
+                        <i class="fa-solid fa-pen-to-square"></i>
+                    </a>
+                    <a asp-action="Details" asp-route-id="@item.IdVanBanTuChu" class="btn btn-details" title="Xem Chi Tiết" data-toggle="tooltip">
+                        <i class="fa-solid fa-circle-info"></i>
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@item.IdVanBanTuChu" class="btn btn-delete" title="Xóa" data-toggle="tooltip">
+                        <i class="fa-solid fa-trash"></i>
+                    </a>
                 </td>
             </tr>
         }

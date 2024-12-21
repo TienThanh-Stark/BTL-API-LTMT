@@ -67,7 +67,7 @@ namespace C500Hemis.Controllers.CSGD
                     return NotFound();
                 }
                 // Nếu đã tìm thấy Id tương ứng, chương trình sẽ dẫn đến view Details
-                // Hiển thị thông thi chi tiết CTĐT thành công
+                // Hiển thị thông thi chi tiết DMLH thành công
                 return View(tbDauMoiLienHe);
             }
             catch (Exception ex)
@@ -260,9 +260,9 @@ namespace C500Hemis.Controllers.CSGD
                 foreach (var item in data)
                 {
                     worksheet.Cells[row, 1].Value = item.IdDauMoiLienHe; // ID
-                    worksheet.Cells[row, 2].Value = item.SoDienThoai; // Mã Phòng Đơn Vị
-                    worksheet.Cells[row, 3].Value = item.Email; // Mã Phòng Đơn Vị Cha
-                    worksheet.Cells[row, 4].Value = item.IdLoaiDauMoiLienHeNavigation?.DauMoiLienHe; // Loại Phòng Ban
+                    worksheet.Cells[row, 2].Value = item.SoDienThoai; // Số Điện Thoại
+                    worksheet.Cells[row, 3].Value = item.Email; // Email
+                    worksheet.Cells[row, 4].Value = item.IdLoaiDauMoiLienHeNavigation?.DauMoiLienHe; // Loại Đầu Mối Liên Hệ
                     row++;
                 }
 
@@ -359,7 +359,7 @@ namespace C500Hemis.Controllers.CSGD
 
                 if (dataType == "DauMoiLienHe")
                 {
-                    // Nhóm theo IdDauMoiLienHe và đếm số lượng
+                    // Nhóm theo IdLoaiDauMoiLienHe và đếm số lượng
                     chartData = data.GroupBy(x => x.IdLoaiDauMoiLienHeNavigation.DauMoiLienHe)
                         .Select(g => new
                         {

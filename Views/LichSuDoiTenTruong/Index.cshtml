@@ -78,11 +78,8 @@
         }
 </style>
 
-<h1 class="mt-4">Lịch sử đổi tên trường</h1>
-<ol class="breadcrumb mb-4">
-    <li class="breadcrumb-item active">Index</li>
-</ol>
-
+<h5>CƠ SỞ GIÁO DỤC</h5>
+<h1 class="mt-4" style="text-align:center; margin-bottom:40px;">Lịch sử đổi tên trường</h1>
 <div class="row">
     <div class="col-xl-3 col-md-6">
         <div class="card bg-primary text-white mb-4">
@@ -165,9 +162,15 @@
                                 @Html.DisplayFor(modelItem => item.NgayKyQuyetDinhDoiTen)
                             </td>
                             <td>
-                                <a asp-action="Edit" asp-route-id="@item.IdLichSuDoiTenTruong">Edit</a> |
-                                <a asp-action="Details" asp-route-id="@item.IdLichSuDoiTenTruong">Details</a> |
-                                <a asp-action="Delete" asp-route-id="@item.IdLichSuDoiTenTruong">Delete</a>
+                                <a asp-action="Edit" asp-route-id="@item.IdLichSuDoiTenTruong" class="btn btn-edit" title="Sửa" data-toggle="tooltip">
+                                    <i class="fa-solid fa-pen-to-square"></i>
+                                </a>
+                                <a asp-action="Details" asp-route-id="@item.IdLichSuDoiTenTruong" class="btn btn-details" title="Xem Chi Tiết" data-toggle="tooltip">
+                                    <i class="fa-solid fa-circle-info"></i>
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@item.IdLichSuDoiTenTruong" class="btn btn-delete" title="Xóa" data-toggle="tooltip">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
                             </td>
                         </tr>
                     }
